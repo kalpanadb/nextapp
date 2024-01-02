@@ -1,0 +1,94 @@
+{
+  "signup": [
+    {
+      "name": "kalpana",
+      "email": "kalpana@gmail.com",
+      "password": "444444",
+      "phoneNumber": "987654321",
+      "checkbox": true,
+      "id": 1
+    },
+    {
+      "name": "kalpana",
+      "email": "tomkaran@gmail.com",
+      "password": "666666",
+      "phoneNumber": "987654321",
+      "checkbox": true,
+      "id": 2
+    }
+  ],
+  "customers": [
+    {
+      "name": "kalpana",
+      "email": "kalpanasujir@gmail.com",
+      "address": "Thudiyalur",
+      "number": "98765432",
+      "companyname": "genpixels",
+      "isActive": false,
+      "id": 1
+    },
+    {
+      "name": "kalpana",
+      "email": "kalpana@gmail.com",
+      "address": "coimbatore",
+      "number": "3698521470",
+      "companyname": "genpixels",
+      "isActive": true,
+      "id": 2
+    },
+    {
+      "name": "sandy",
+      "email": "sandy@gmail.com",
+      "address": "Rangampalayam",
+      "number": "3698521470",
+      "companyname": "CTS",
+      "isActive": false,
+      "id": 3
+    },
+    {
+      "name": "sanjay",
+      "email": "sanjay@gmail.com",
+      "number": "95874123",
+      "address": "covai",
+      "companyname": "genpixels",
+      "isActive": true,
+      "id": 4
+    },
+    {
+      "name": "santhosh",
+      "email": "tomkaran@gmail.com",
+      "number": "95874123",
+      "address": "tirupur",
+      "companyname": "CTS",
+      "isActive": true,
+      "id": 5
+    },
+    {
+      "name": "shanu",
+      "email": "shanu@gmail.com",
+      "number": "987654320",
+      "address": "Thudiyalur",
+      "companyname": "CTS",
+      "isActive": true,
+      "id": 6
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "number": "3698521470",
+      "address": "coimbatore",
+      "companyname": "hcl",
+      "isActive": true,
+      "id": 7
+    },
+    {
+      "name": "kalpana",
+      "email": "kalpana123@gmail.com",
+      "number": "987654320",
+      "address": "coimbatore",
+      "companyname": "CTS",
+      "isActive": true,
+      "id": 8
+    }
+  ]
+}

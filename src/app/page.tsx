@@ -1,6 +1,13 @@
-import styles from "./home.module.css"
+"use client"
+import Homepage from "@/page/homepage/homepage";
+
+
 export default function Home() {
   return (
-    <h1 className={styles.add}>Welcome to Learning Hub </h1>
-  )
+    <>
+      <Homepage />
+    
+    </>
+
+  );
 }
